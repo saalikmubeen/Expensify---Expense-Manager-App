@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Expect form submission with valid form submission 1`] = `ShallowWrapper {}`;
+
+exports[`Expect form submission without description or without amount 1`] = `ShallowWrapper {}`;
+
+exports[`Expect form submission without description or without amount 2`] = `ShallowWrapper {}`;
+
+exports[`Expect to render ExpenseForm with expense data 1`] = `ShallowWrapper {}`;
+
+exports[`Expect to render ExpenseForm without expense data 1`] = `ShallowWrapper {}`;
+
+exports[`Should set description on input change 1`] = `ShallowWrapper {}`;
+
+exports[`Should set new Date on date change 1`] = `ShallowWrapper {}`;
+
+exports[`Should set note on input change 1`] = `ShallowWrapper {}`;
